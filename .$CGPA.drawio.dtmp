@@ -1,0 +1,106 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="b34m-he2W4UJgeMv5C3B">
+    <mxGraphModel dx="861" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-2" edge="1" parent="1" source="coAuNJZnMAlIqDcoqT1V-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-4" edge="1" parent="1" source="coAuNJZnMAlIqDcoqT1V-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-9" edge="1" parent="1" source="WGlhzOhxgeCtkGMrWlv6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-11" edge="1" parent="1" source="coAuNJZnMAlIqDcoqT1V-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-16" edge="1" parent="1" source="coAuNJZnMAlIqDcoqT1V-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="coAuNJZnMAlIqDcoqT1V-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GRADING SYSTEM" vertex="1">
+          <mxGeometry height="60" width="120" x="365" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-1" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="NAME" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-6" edge="1" parent="1" source="WGlhzOhxgeCtkGMrWlv6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-8" edge="1" parent="1" source="WGlhzOhxgeCtkGMrWlv6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-14" edge="1" parent="1" source="WGlhzOhxgeCtkGMrWlv6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="PROGRAME" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="COURSES" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="CREDIT HOUR PER COURSE" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-12" edge="1" parent="1" source="coAuNJZnMAlIqDcoqT1V-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="60" as="sourcePoint" />
+            <mxPoint x="425" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="GRADING SCALE" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-18" edge="1" parent="1" source="WGlhzOhxgeCtkGMrWlv6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="GRADE TO POINT CALCULATOR" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="ID" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-20" edge="1" parent="1" source="WGlhzOhxgeCtkGMrWlv6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-26" edge="1" parent="1" source="WGlhzOhxgeCtkGMrWlv6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-17" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="GPA FOR THAT SEMESTER" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-22" edge="1" parent="1" source="WGlhzOhxgeCtkGMrWlv6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kd_dNvjugLOHGAi2LevE-2" edge="1" parent="1" source="WGlhzOhxgeCtkGMrWlv6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Kd_dNvjugLOHGAi2LevE-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="CALCULATE CGPA" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-29" edge="1" parent="1" source="WGlhzOhxgeCtkGMrWlv6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-21" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="STORE CGPA" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-27" edge="1" parent="1" source="WGlhzOhxgeCtkGMrWlv6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WGlhzOhxgeCtkGMrWlv6-25" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="510" as="sourcePoint" />
+            <mxPoint x="190" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-25" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="ENTER PREVIOUS CGPA" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="WGlhzOhxgeCtkGMrWlv6-28" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="END PROGRAME" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Kd_dNvjugLOHGAi2LevE-1" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&#xa;CGPA = (Σ grade point × credit hours, across all courses in all semesters) ÷ (Σ total credit hours, across all courses in all semesters)&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
